@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "kbd")(type "KiCad")(uri "/home/dn220700ksv/Desktop/Sweep/kbd.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "/home/dn220700ksv/Desktop/Sweep/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "my")(type "KiCad")(uri "/home/dn220700ksv/Desktop/Sweep/my.pretty")(options "")(descr ""))
+)
